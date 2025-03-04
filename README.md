@@ -30,6 +30,8 @@
 - 🛠 Atualmente focado em **Flutter, Node.js e automação de sistemas**.
 - 📚 Gosto de aprender sobre **gestão de projetos, supervisórios e inteligência artificial**.
 
+🌐 **Official Page:** [Caio Pariz](https://jinmoridann.github.io/caiopariz/) 🌎
+
 ---
 
 ### 📫 Connect with me
