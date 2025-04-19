@@ -33,6 +33,7 @@
 🌐 **Official Page:** [Caio Pariz](https://jinmoridann.github.io/caiopariz/) 🌎
 
 Meu rank no Codewars!
+
 <img src="https://www.codewars.com/users/JinMoriDann/badges/small"/>
 
 ---
