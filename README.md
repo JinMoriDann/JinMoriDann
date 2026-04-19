@@ -6,12 +6,13 @@ Software Development Lead at [Pariz & Comin Eng](https://github.com/parizecomin)
 
 ## About me
 
-I love creating — from stories to real-world systems. My mind is always active, exploring new ideas and technologies.
+I build complete systems — from mobile and web applications to real-world automation solutions.
 
-Currently, I'm focused on improving my code quality and building scalable systems.  
-I also have a strong interest in Linux environments, especially Arch Linux with KDE Plasma.
+My work focuses on practical and reliable systems, combining software development with hardware integration.
 
-Another goal is to keep developing and publishing applications for the Play Store.
+Experience with industrial communication protocols (Modbus) and embedded environments.
+
+Currently, I am improving code quality, system architecture, and backend scalability.
 
 ---
 
@@ -43,6 +44,25 @@ Another goal is to keep developing and publishing applications for the Play Stor
 
 ## Current Focus
 
-- Building robust backends with TypeScript and NestJS  
-- Improving architecture and scalability  
-- Developing real-world automation systems  
+- Backend development with TypeScript and NestJS  
+- Scalable system architecture  
+- Automation and hardware integration  
+
+---
+
+## Example mindset
+
+```dart
+class Developer {
+  final String focus = "real-world systems";
+
+  void build() {
+    while (true) {
+      learn();
+      improveArchitecture();
+      deliver();
+    }
+  }
+}
+```
+Focused on building systems that work in the real world.
